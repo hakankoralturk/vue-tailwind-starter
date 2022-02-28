@@ -1,6 +1,6 @@
 # vue-tailwind
 
-Vue 3 + Vuex + Router + TailwindCss Starter
+Vue 3 + Vuex 4 + Router 4 + TailwindCss 3 - Starter
 
 ## Project setup
 
